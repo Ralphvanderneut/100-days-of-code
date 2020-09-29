@@ -8,6 +8,8 @@
 
 **Link to work:** [Simple teleport component](https://github.com/Ralphvanderneut/100dayscodeprojects/blob/master/codeweekprojects/src/components/TeleportMe.vue)
 
+### Day 2: September 29, 2020
+
 **Today's Progress**: Build a vue component which draws a canvas version of the dom in utrecht netherlands
 
 **Thoughts:** Canvas is really cool to make visual design in html. I want do more with this so in the future i will look at some libraries.
