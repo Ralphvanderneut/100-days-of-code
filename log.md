@@ -16,3 +16,13 @@
 
 **Link to work:** [canvas de dom component](https://github.com/Ralphvanderneut/100dayscodeprojects/blob/master/codeweekprojects/src/components/DeDom.vue)
 [The dom utrecht](https://www.google.com/search?q=dom+utrecht&client=firefox-b-d&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj2qtPngY_sAhWJGewKHUuFDGkQ_AUoAXoECBIQAw&biw=1920&bih=938#imgrc=qu7Lplg8cuBKlM)
+
+### Day 3: September 30, 2020
+
+**Today's Progress**: start building a anime suggestion component. Using new ecma features arrow function,block scopes,async,rest and spread, classes, import/export i got from a blog. Its hard getting used to arrow functions and destructering objects.
+
+**Thoughts:** There are so many usefull new ecma functions i haven't explored yet. These will definitely help me improve some work code.
+
+**Link to work:** [anime suggestion component](https://github.com/Ralphvanderneut/100dayscodeprojects/blob/master/codeweekprojects/src/components/AnimeSuggestion.vue)
+[js blog](https://manifold.co/blog/10-popular-modern-javascript-features-for-front-end-devs)
+[kitsu api](https://kitsu.docs.apiary.io)
