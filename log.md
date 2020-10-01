@@ -26,3 +26,13 @@
 **Link to work:** [anime suggestion component](https://github.com/Ralphvanderneut/100dayscodeprojects/blob/master/codeweekprojects/src/components/AnimeSuggestion.vue)
 [js blog](https://manifold.co/blog/10-popular-modern-javascript-features-for-front-end-devs)
 [kitsu api](https://kitsu.docs.apiary.io)
+
+### Day 4: October 1, 2020
+
+**Today's Progress**: finished the technical part of the anime suggestion. used export function for treeshaking. Also more in depth use of await and async. 
+
+**Thoughts:** Its sometime little hard to understand how different js functions work. Also can't acces the this from the vue component. possibly i had to use bind! 
+
+**Link to work:** [anime suggestion component](https://github.com/Ralphvanderneut/100dayscodeprojects/blob/master/codeweekprojects/src/components/AnimeSuggestion.vue)
+[js blog](https://manifold.co/blog/10-popular-modern-javascript-features-for-front-end-devs)
+[kitsu api](https://kitsu.docs.apiary.io)

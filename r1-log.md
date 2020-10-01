@@ -15,3 +15,7 @@ Build a vue component which draws a canvas version of the dom in utrecht netherl
 ### R1D3
 
 Started building a anime suggestion api.
+
+### R1D4
+
+Finished the logical part of the anime suggestion api.
