@@ -29,10 +29,19 @@
 
 ### Day 4: October 1, 2020
 
-**Today's Progress**: finished the technical part of the anime suggestion. used export function for treeshaking. Also more in depth use of await and async. 
+**Today's Progress**: finished the technical part of the anime suggestion. used export function for treeshaking. Also more in depth use of await and async.
 
-**Thoughts:** Its sometime little hard to understand how different js functions work. Also can't acces the this from the vue component. possibly i had to use bind! 
+**Thoughts:** Its sometime little hard to understand how different js functions work. Also can't acces the this from the vue component. possibly i had to use bind!
 
 **Link to work:** [anime suggestion component](https://github.com/Ralphvanderneut/100dayscodeprojects/blob/master/codeweekprojects/src/components/AnimeSuggestion.vue)
 [js blog](https://manifold.co/blog/10-popular-modern-javascript-features-for-front-end-devs)
 [kitsu api](https://kitsu.docs.apiary.io)
+
+### Day 5: October 2, 2020
+
+**Today's Progress**: Started using tailwindcss to style my anime suggestion component.
+
+**Thoughts:** Its weird that you only use utility functions. At first its a little hard cause your not familiar with the syntax. Then is just installed the plugin for vs code. That helped a lot. It also mainly uses rem which i never used. Further i really like using it. Feels new.
+
+**Link to work:** [anime suggestion component](https://github.com/Ralphvanderneut/100dayscodeprojects/blob/master/codeweekprojects/src/components/AnimeSuggestion.vue)
+[tailwind css](https://tailwindcss.com/docs/installation)
