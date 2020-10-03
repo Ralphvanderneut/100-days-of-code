@@ -45,3 +45,12 @@
 
 **Link to work:** [anime suggestion component](https://github.com/Ralphvanderneut/100dayscodeprojects/blob/master/codeweekprojects/src/components/AnimeSuggestion.vue)
 [tailwind css](https://tailwindcss.com/docs/installation)
+
+### Day 6: October 3, 2020
+
+**Today's Progress**: Going a little further in tailwindcss. Also rewrote the anime suggestion logic in composition api.
+
+**Thoughts:** Composition api makes structuring the page code easier. You can better organize the functions in composable js functions. it has a little of a learning curve. Isn't as easy to learn as the options api.
+
+**Link to work:** [anime suggestion component](https://github.com/Ralphvanderneut/100dayscodeprojects/blob/master/codeweekprojects/src/components/AnimeSuggestion.vue)
+[tailwind css](https://tailwindcss.com/docs/installation)

@@ -20,6 +20,10 @@ Started building a anime suggestion api.
 
 Finished the logical part of the anime suggestion api.
 
-### R1D4
+### R1D5
 
 Started applying tailwind css to make my component a little sexier
+
+### R1D6
+
+Added some more style and rewrote logic in composition api.
