@@ -54,3 +54,11 @@
 
 **Link to work:** [anime suggestion component](https://github.com/Ralphvanderneut/100dayscodeprojects/blob/master/codeweekprojects/src/components/AnimeSuggestion.vue)
 [tailwind css](https://tailwindcss.com/docs/installation)
+
+### Day 7: October 4, 2020
+
+**Today's Progress**: Rewrote my anime suggestion component using typescript in vue3.
+
+**Thoughts:** Typescript is a lott different than normal js. Its a little complicated with the mass different ways of written functions. How set types etc.
+
+**Link to work:** [animeApp](https://github.com/Ralphvanderneut/100dayscodeprojects/tree/master/animeapp/src)
