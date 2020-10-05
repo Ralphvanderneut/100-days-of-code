@@ -31,3 +31,7 @@ Added some more style and rewrote logic in composition api.
 ### R1D7
 
 Rewrote first project in typescript
+
+### R1D8
+
+Started working on my portfolio site

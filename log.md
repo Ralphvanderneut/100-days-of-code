@@ -62,3 +62,12 @@
 **Thoughts:** Typescript is a lott different than normal js. Its a little complicated with the mass different ways of written functions. How set types etc.
 
 **Link to work:** [animeApp](https://github.com/Ralphvanderneut/100dayscodeprojects/tree/master/animeapp/src)
+
+### Day 7: October 4, 2020
+
+**Today's Progress**: started my portfolio website project.
+
+**Thoughts:** Trying to get my design into tailwindcss is harder than i thought. Also trying to create an old explorer structure for design. Also started using atom design to structure my website.
+
+**Link to work:** [animeApp](https://github.com/Ralphvanderneut/100dayscodeprojects/tree/master/animeapp/src)
+
