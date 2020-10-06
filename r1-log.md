@@ -35,3 +35,6 @@ Rewrote first project in typescript
 ### R1D8
 
 Started working on my portfolio site
+
+### R1D9
+FInished the header started with sidebar menu

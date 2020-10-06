@@ -63,11 +63,19 @@
 
 **Link to work:** [animeApp](https://github.com/Ralphvanderneut/100dayscodeprojects/tree/master/animeapp/src)
 
-### Day 8: October 4, 2020
+### Day 8: October 5, 2020
 
 **Today's Progress**: started my portfolio website project.
 
 **Thoughts:** Trying to get my design into tailwindcss is harder than i thought. Also trying to create an old explorer structure for design. Also started using atom design to structure my website.
+
+**Link to work:** [portfolio site](https://github.com/Ralphvanderneut/100dayscodeprojects/tree/master/ralph-portfolio)
+
+### Day 9: October 6, 2020
+
+**Today's Progress**: finished the header component with styling. Started with the sidebar and teh menu. Used flexbox to order the components.
+
+**Thoughts:** The flexbox works a little different in combination with tailwindcss. I am started to better grasp the utilities i can use.
 
 **Link to work:** [portfolio site](https://github.com/Ralphvanderneut/100dayscodeprojects/tree/master/ralph-portfolio)
 
