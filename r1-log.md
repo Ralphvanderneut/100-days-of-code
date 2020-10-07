@@ -38,3 +38,6 @@ Started working on my portfolio site
 
 ### R1D9
 FInished the header started with sidebar menu
+
+### R1D10
+Build a small composable that emits a selected event.

@@ -79,3 +79,10 @@
 
 **Link to work:** [portfolio site](https://github.com/Ralphvanderneut/100dayscodeprojects/tree/master/ralph-portfolio)
 
+### Day 10: October 7, 2020
+
+**Today's Progress**: Build a small composable function to emit a selected event. I use it over multiple components
+
+**Thoughts:** Not really sure if this is the best solution. I still have troubles with the event structure of vuejs. But i need to understand more to build better apps.
+
+**Link to work:** [portfolio site](https://github.com/Ralphvanderneut/100dayscodeprojects/tree/master/ralph-portfolio)
