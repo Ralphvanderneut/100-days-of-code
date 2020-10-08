@@ -79,3 +79,18 @@
 
 **Link to work:** [portfolio site](https://github.com/Ralphvanderneut/100dayscodeprojects/tree/master/ralph-portfolio)
 
+### Day 9: October 6, 2020
+
+**Today's Progress**: finished the header component with styling. Started with the sidebar and teh menu. Used flexbox to order the components.
+
+**Thoughts:** The flexbox works a little different in combination with tailwindcss. I am started to better grasp the utilities i can use.
+
+**Link to work:** [portfolio site](https://github.com/Ralphvanderneut/100dayscodeprojects/tree/master/ralph-portfolio)
+
+### Day 11: October 8, 2020
+
+**Today's Progress**: Almost none, wanted to build a modal and use transition. But got stuck only creating the modals and not fully grasping the inner workings.
+
+**Thoughts:** It was a shitty day
+
+**Link to work:** [portfolio site](https://github.com/Ralphvanderneut/100dayscodeprojects/tree/master/ralph-portfolio)
