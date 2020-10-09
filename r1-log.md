@@ -40,9 +40,14 @@ Started working on my portfolio site
 
 FInished the header started with sidebar menu
 
-### R1D11
-
-FInished the header started with sidebar menu
-
 ### R1D10
 Build a small composable that emits a selected event.
+
+
+### R1D11
+
+Failed terribly todat
+
+### R1D12
+
+started with a transition component
