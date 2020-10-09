@@ -86,3 +86,19 @@
 **Thoughts:** Not really sure if this is the best solution. I still have troubles with the event structure of vuejs. But i need to understand more to build better apps.
 
 **Link to work:** [portfolio site](https://github.com/Ralphvanderneut/100dayscodeprojects/tree/master/ralph-portfolio)
+
+### Day 11: October 8, 2020
+
+**Today's Progress**: Almost none, wanted to build a modal and use transition. But got stuck only creating the modals and not fully grasping the inner workings.
+
+**Thoughts:** It was a shitty day
+
+**Link to work:** [portfolio site](https://github.com/Ralphvanderneut/100dayscodeprojects/tree/master/ralph-portfolio)
+
+### Day 12: October 9, 2020
+
+**Today's Progress**: built a transition component for a folder open animation.
+
+**Thoughts:**  It takes some tweaking to get a good transition. The classes are easy to understand.
+
+**Link to work:** [portfolio site](https://github.com/Ralphvanderneut/100dayscodeprojects/tree/master/ralph-portfolio)
