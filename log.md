@@ -99,6 +99,39 @@
 
 **Today's Progress**: built a transition component for a folder open animation.
 
-**Thoughts:**  It takes some tweaking to get a good transition. The classes are easy to understand.
+**Thoughts:** It takes some tweaking to get a good transition. The classes are easy to understand.
+
+**Link to work:** [portfolio site](https://github.com/Ralphvanderneut/100dayscodeprojects/tree/master/ralph-portfolio)
+
+### Day 13: October 10, 2020
+
+**Today's Progress**: built a transition component for a folder open animation.
+
+**Thoughts:** It takes some tweaking to get a good transition. The classes are easy to understand.
+
+**Link to work:** [portfolio site](https://github.com/Ralphvanderneut/100dayscodeprojects/tree/master/ralph-portfolio)
+
+### Day 14: October 11, 2020
+
+**Today's Progress**: folder open animation finished
+
+**Thoughts:** Its really hard to get the animation correct. I will tried to finish it later
+
+**Link to work:** [portfolio site](https://github.com/Ralphvanderneut/100dayscodeprojects/tree/master/ralph-portfolio)
+
+### Day 15: October 11, 2020
+
+**Today's Progress**: started to create a modal which hangs in the site
+
+**Thoughts:** started to change the config of tailwindcss. Its a little weird how to do it.
+But the online site gives me a lot of help
+
+**Link to work:** [portfolio site](https://github.com/Ralphvanderneut/100dayscodeprojects/tree/master/ralph-portfolio)
+
+### Day 16: October 11, 2020
+
+**Today's Progress**: modal blueprint finished and started the image gallery
+
+**Thoughts:** Bad day!
 
 **Link to work:** [portfolio site](https://github.com/Ralphvanderneut/100dayscodeprojects/tree/master/ralph-portfolio)

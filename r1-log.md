@@ -41,8 +41,8 @@ Started working on my portfolio site
 FInished the header started with sidebar menu
 
 ### R1D10
-Build a small composable that emits a selected event.
 
+Build a small composable that emits a selected event.
 
 ### R1D11
 
@@ -51,3 +51,19 @@ Failed terribly todat
 ### R1D12
 
 started with a transition component
+
+### R1D13
+
+finished transition component
+
+### R1D14
+
+started on building modal
+
+### R1D15
+
+still building modal
+
+### R1D16
+
+finished modal and started image gallery
