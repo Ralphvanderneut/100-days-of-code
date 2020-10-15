@@ -135,3 +135,11 @@ But the online site gives me a lot of help
 **Thoughts:** Bad day!
 
 **Link to work:** [portfolio site](https://github.com/Ralphvanderneut/100dayscodeprojects/tree/master/ralph-portfolio)
+
+### Day 17: October 11, 2020
+
+**Today's Progress**: build a small image gallery
+
+**Thoughts:** Had some problem with tailwindcss flexbox! need to understand why it won't take my full width. Probably to little knowledge.
+
+**Link to work:** [portfolio site](https://github.com/Ralphvanderneut/100dayscodeprojects/tree/master/ralph-portfolio)
