@@ -119,7 +119,7 @@
 
 **Link to work:** [portfolio site](https://github.com/Ralphvanderneut/100dayscodeprojects/tree/master/ralph-portfolio)
 
-### Day 15: October 11, 2020
+### Day 15: October 12, 2020
 
 **Today's Progress**: started to create a modal which hangs in the site
 
@@ -128,7 +128,7 @@ But the online site gives me a lot of help
 
 **Link to work:** [portfolio site](https://github.com/Ralphvanderneut/100dayscodeprojects/tree/master/ralph-portfolio)
 
-### Day 16: October 11, 2020
+### Day 16: October 13, 2020
 
 **Today's Progress**: modal blueprint finished and started the image gallery
 
@@ -136,10 +136,19 @@ But the online site gives me a lot of help
 
 **Link to work:** [portfolio site](https://github.com/Ralphvanderneut/100dayscodeprojects/tree/master/ralph-portfolio)
 
-### Day 17: October 11, 2020
+### Day 17: October 14, 2020
 
 **Today's Progress**: build a small image gallery
 
 **Thoughts:** Had some problem with tailwindcss flexbox! need to understand why it won't take my full width. Probably to little knowledge.
+
+**Link to work:** [portfolio site](https://github.com/Ralphvanderneut/100dayscodeprojects/tree/master/ralph-portfolio)
+
+### Day 18: October 17, 2020
+
+**Today's Progress**: I build a query search for airphotos of the dutch government search as a composable in vuejs.
+
+**Thoughts:** The typescript types of ref and reactive are not easy to find on the vuejs site. Also the dutch government has an api where a all the images are deleted. So that was a little weird. Only the lint on run is to strict on spaces.
+
 
 **Link to work:** [portfolio site](https://github.com/Ralphvanderneut/100dayscodeprojects/tree/master/ralph-portfolio)
