@@ -150,5 +150,12 @@ But the online site gives me a lot of help
 
 **Thoughts:** The typescript types of ref and reactive are not easy to find on the vuejs site. Also the dutch government has an api where a all the images are deleted. So that was a little weird. Only the lint on run is to strict on spaces.
 
+**Link to work:** [portfolio site](https://github.com/Ralphvanderneut/100dayscodeprojects/tree/master/ralph-portfolio)
+
+### Day 19: October 18, 2020
+
+**Today's Progress**: Started building a dutch to sith language component. Using google translate to translate dutch to english. Then using english to ranslate to sith using funtranslations. ALso using the suspense rfc from vue3 to show a loading message.
+
+**Thoughts:** It took a lot of time to figure out to test the google translate api. Which isn't very user friendly.
 
 **Link to work:** [portfolio site](https://github.com/Ralphvanderneut/100dayscodeprojects/tree/master/ralph-portfolio)

@@ -68,11 +68,12 @@ still building modal
 
 finished modal and started image gallery
 
-
 ### R1D17
-
-
 
 ### R1D18
 
 I build a query search for airphotos of the dutch government search as a composable in vuejs.
+
+### R1D19
+
+Building a dutch to sith translator function.
