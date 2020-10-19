@@ -159,3 +159,11 @@ But the online site gives me a lot of help
 **Thoughts:** It took a lot of time to figure out to test the google translate api. Which isn't very user friendly.
 
 **Link to work:** [portfolio site](https://github.com/Ralphvanderneut/100dayscodeprojects/tree/master/ralph-portfolio)
+
+### Day 20: October 18, 2020
+
+**Today's Progress**: Made it possible to translate dutch to sith language in the component.
+
+**Thoughts:** During coding i thought about how cool it would be to do spoken language and get it returned to you through the speaker. 
+
+**Link to work:** [portfolio site](https://github.com/Ralphvanderneut/100dayscodeprojects/tree/master/ralph-portfolio)

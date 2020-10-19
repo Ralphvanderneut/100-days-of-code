@@ -77,3 +77,7 @@ I build a query search for airphotos of the dutch government search as a composa
 ### R1D19
 
 Building a dutch to sith translator function.
+
+### R1D20
+
+Input text can now be translated to sith.
