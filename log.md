@@ -160,10 +160,18 @@ But the online site gives me a lot of help
 
 **Link to work:** [portfolio site](https://github.com/Ralphvanderneut/100dayscodeprojects/tree/master/ralph-portfolio)
 
-### Day 20: October 18, 2020
+### Day 20: October 19, 2020
 
 **Today's Progress**: Made it possible to translate dutch to sith language in the component.
 
 **Thoughts:** During coding i thought about how cool it would be to do spoken language and get it returned to you through the speaker. 
+
+**Link to work:** [portfolio site](https://github.com/Ralphvanderneut/100dayscodeprojects/tree/master/ralph-portfolio)
+
+### Day 21: October 20, 2020
+
+**Today's Progress**: Started incorperating the web speech api to say text to translate.
+
+**Thoughts:** The weird thing is that the code doesn't seem to read the transcript? But console.log can log the correct text. Need to further investigate.
 
 **Link to work:** [portfolio site](https://github.com/Ralphvanderneut/100dayscodeprojects/tree/master/ralph-portfolio)

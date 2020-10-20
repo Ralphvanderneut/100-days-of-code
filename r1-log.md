@@ -81,3 +81,7 @@ Building a dutch to sith translator function.
 ### R1D20
 
 Input text can now be translated to sith.
+
+### R1D21
+
+Started working with the webspeech api.
