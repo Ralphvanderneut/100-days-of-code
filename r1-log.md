@@ -85,3 +85,11 @@ Input text can now be translated to sith.
 ### R1D21
 
 Started working with the webspeech api.
+
+### R1D22
+
+rewriting duth to sith component in js. still to basic in typescript.
+
+### R1D23
+
+finished the logical part of the sith translator. started creating the layout.
