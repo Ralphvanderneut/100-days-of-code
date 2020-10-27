@@ -93,3 +93,7 @@ rewriting duth to sith component in js. still to basic in typescript.
 ### R1D23
 
 finished the logical part of the sith translator. started creating the layout.
+
+### R1D23
+
+finished the logical part of the sith translator. started creating the layout.

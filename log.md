@@ -207,3 +207,35 @@ But the online site gives me a lot of help
 **Thoughts:** Still trying to get the hang of tailwindcss. Sometimes forget that not all utility classes without a parent.
 
 **Link to work:** [portfolio site](https://github.com/Ralphvanderneut/100dayscodeprojects/tree/master/ralph-portfolio)
+
+### Day 26: October 24, 2020
+
+**Today's Progress**: started designing of the sith translator updated some extra code.
+
+**Thoughts:** The width is still a little hard in tailwindcss
+
+**Link to work:** [portfolio site](https://github.com/Ralphvanderneut/100dayscodeprojects/tree/master/ralph-portfolio)
+
+### Day 27: October 25, 2020
+
+**Today's Progress**: finished sith translator code
+
+**Thoughts:** i think its better to config tailwindcss first with everything you need which isn't there. Cause it takes some time to get is right;
+
+**Link to work:** [portfolio site](https://github.com/Ralphvanderneut/100dayscodeprojects/tree/master)
+
+### Day 28: October 26, 2020
+
+**Today's Progress**: Started building a fire force js class for the anime.
+
+**Thoughts:** Forget that some functions are still in experimental phase like private fields.
+
+**Link to work:** [portfolio site](https://github.com/Ralphvanderneut/100dayscodeprojects/tree/master)
+
+### Day 29: October 27, 2020
+
+**Today's Progress**: written an calculator class in js and then in ts to see the differences. Now built merge sort in js and wil continue to write is in ts tommorrow.
+
+**Thoughts:** Forget that some functions are still in experimental phase like private fields.
+
+**Link to work:** [portfolio site](https://github.com/Ralphvanderneut/100dayscodeprojects/tree/master)
